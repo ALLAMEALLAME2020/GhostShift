@@ -360,13 +360,6 @@ ip_changer.py
 
 GhostShift is intended for **educational purposes**, **privacy research**, and **legitimate anonymity use cases** only. Tor does not guarantee complete anonymity — exit nodes can be monitored and timing attacks exist. You are solely responsible for how you use this tool.
 
----
-
-## 📄 License
-
-Released under the **MIT License** — see [`LICENSE`](LICENSE) for details.
-
----
 
 <div align="center">
 
