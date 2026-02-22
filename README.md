@@ -370,8 +370,6 @@ Released under the **MIT License** — see [`LICENSE`](LICENSE) for details.
 
 <div align="center">
 
-**Built with [Rich](https://github.com/Textualize/rich) · [Stem](https://stem.torproject.org/) · [PyFiglet](https://github.com/pwaller/pyfiglet) · [Tor](https://torproject.org)**
-
 <br/>
 
 *Stay anonymous. Stay safe.*
